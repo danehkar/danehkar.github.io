@@ -281,7 +281,10 @@ doi:<a href="https://doi.org/10.5281/zenodo.47796">10.5281/zenodo.47796</a></p>
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=34972723700"><img src="../images/scopus-icon.png" alt="Scopus" width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://www.webofscience.com/wos/author/record/1386056"><img src="../images/publons-icon.png" alt="Web of Science" width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://scholar.google.com/citations?user=a2LX8coAAAAJ"><img src="../images/googlescholar-icon.png" alt="Google Scholar" width=24 style="vertical-align:middle" class='customlogo'/></a>
-<a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997"><img src="../images/ads-icon.png" alt="NASA/ADS" width=24 style="vertical-align:middle" class='customlogo'/></a> <a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="../images/arxiv-icon.png" alt="arXiv" width=24 style="vertical-align:middle" class='customlogo'/></a>
+<a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997"><img src="../images/ads-icon.png" alt="NASA/ADS" width=24 style="vertical-align:middle" class='customlogo'/></a>
+<button onclick="ToggleFunction()">&nbsp;...&nbsp;</button>
+<div id="ToggleID">
+<a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="../images/arxiv-icon.png" alt="arXiv" width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://www.researchgate.net/profile/Ashkbiz_Danehkar"><img src="../images/researchgate-icon.png" alt="ResearchGate" width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://inspirehep.net/authors/1048604"><img src="../images/inspirehep-icon.png" alt="INSPIRE-HEP" width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://www.semanticscholar.org/author/Ashkbiz-Danehkar/37222186"><img src="../images/semanticscholar-icon.png" alt="SemanticScholar" width=24 style="vertical-align:middle" class='customlogo'/></a>
@@ -294,6 +297,7 @@ doi:<a href="https://doi.org/10.5281/zenodo.47796">10.5281/zenodo.47796</a></p>
 <a target="_blank" href="https://figshare.com/authors/Ashkbiz_Danehkar/2638657"><img src="../images/figshare-icon.png" alt="figshare " width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://sketchfab.com/danehkar"><img src="../images/sketchfab-icon.png" alt="Sketchfab " width=24 style="vertical-align:middle" class='customlogo'/></a>
 <a target="_blank" href="https://dblp.org/pid/211/7731"><img src="../images/dblp-icon.png" alt="DBLP " width=24 style="vertical-align:middle" class='customlogo'/></a>
+</div>
 				</ul>
 			</li>
 		</ul>
@@ -307,5 +311,19 @@ doi:<a href="https://doi.org/10.5281/zenodo.47796">10.5281/zenodo.47796</a></p>
 <div id="footer">
 	<p>&copy; 2015-2022 Ashkbiz Danehkar. Site hosted by <a href="https://pages.github.com/">Github Pages</a>, based on a free design from <a href="https://templated.co/" rel="nofollow">templated.co</a>.</p>
 </div>
+
+<script>
+function ToggleFunction() {
+  var x = document.getElementById("ToggleID");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+var x = document.getElementById("ToggleID");
+x.style.display = "none";
+</script>
+
 </body>
 </html>
