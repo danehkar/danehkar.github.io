@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/danehkar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danehkar.github.io
+  * I am danehkar (https://keybase.io/danehkar) on keybase.
+  * I have a public key with fingerprint EA89 13D5 2B8A 89E9 7160  C9AF 0866 FC48 C656 8964
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010126d89c03764477dd8b666748884a77e78735d7585161457b722f6186bd8140170a",
+      "fingerprint": "ea8913d52b8a89e97160c9af0866fc48c6568964",
+      "host": "keybase.io",
+      "key_id": "0866fc48c6568964",
+      "kid": "010126d89c03764477dd8b666748884a77e78735d7585161457b722f6186bd8140170a",
+      "uid": "d3dd8ed0ae9902a8f185a5c3d5629b19",
+      "username": "danehkar"
+    },
+    "service": {
+      "hostname": "danehkar.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668747340,
+  "expire_in": 157680000,
+  "prev": "f1554729c7c25730f12e9bc82be968c9a03ab42456fc30bab139ededa4407817",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD4ntVAKtZt2IXLpomExszs7M3vo8hBGiEQXDZHyMLs7e852
+7JzjnvVoiUEaFSYICVGIadH9IQI1sOhKUBRRVPbQDcmCXkq7KEGQzWq91GvzMjP/
+fN833/fP3JmW4svwb5veeP2enHnV/+DW8RqfUZtVUi/pMXOXFKiXInx84lUmT7jB
+iG1KAQlAAGVsUs0ACsEIEWKaVMcYE0QpRYwQTihRVJOoVIUYIpXoRJYtDCnWTQoR
+gAQwqVCy7GiIO3HHjrpCljOqQcVUZZ2KFdcIxMDQmAUoxpaBqIFVTDWMBDEcS3gM
+YU5nCb7Cjoma2AQn7P2L/8++a8blTEXQuQkY1zQgM2pBqjLVEAmwrOlQ84AJ7kTZ
+Tu6hWZSHI8yRGgolUU3aBvca6yX5C7EiZLvhGn0iVdyJuTEjViXOw64bTwQ8vrsr
+7hFquR78LRXU7agpuikYSe4k7FhUCkCBNFzb04YYU4KIgkChxOvitsODtodQCaZA
+DO8enhSSFlRVRGTNIIasEgVYUOaablBZ5xqm4jWAwnQkI1V0WAE606GicZObDCFA
+KCSSF646GpMCChI+WUhoJuxQlLk1Dpcabt/clurzZ/gmp03yvpkvIz3rz+dzVk0Z
+q392MjO7xAxX7IvcyZ6qnJl9/zVTiqagE+Ujy9PrWn1O/6ezKYfXhAee93UvSM5a
+ej7/x+4KqWOZcWLkI1qfW911YSz3UIOftjoNyavFTm7Po4Jzobsztl9aUhTqTgsl
+nrb0bVh9cOaH2qyutUPza/vT2vJgWvfLgdL9Hb6y9xX53/cCsnHxY/+1qhR5RxL3
+luQ2jeU1L+y1nMjYQHVL5Y2H9XNebOq0qkY6vyzb3Tb0uefKgq/5qTkFT1pP+cpK
+3m1d9PNGcUfpqxYlZ3gw+4DbjI8e+9ZSeWplgFwv33J65M0oyG+/vK9pbubmeYOO
+9bZ9Wtto45bIumxn+OKRV3vafgE3eTVf
+=JfbV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danehkar
+
+==================================================================
